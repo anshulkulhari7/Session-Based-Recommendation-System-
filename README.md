@@ -17,3 +17,10 @@ Represent each session as a composition of the global preference and the current
 For each session, we predict the probability of each item to be the next click.
 
 Incorporating target-attention embedding to sequential recommendation models gave a significant improvement in the recommendations so it seemed intuitive that it will give similar results when implemented on a GNN based recommendation system.
+
+#Dataset Used
+The diginetica dataset is used for this project(http://cikm2016.cs.iupui.edu/cikm-cup)
+
+#Paper referenced
+"TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation"
+
